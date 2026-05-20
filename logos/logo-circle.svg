@@ -1,0 +1,13 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="192" y2="192">
+      <stop offset="0%" stop-color="#1a1a1f"/>
+      <stop offset="100%" stop-color="#111114"/>
+    </linearGradient>
+  </defs>
+  <circle cx="96" cy="96" r="96" fill="url(#bg)"/>
+  <circle cx="96" cy="96" r="94" fill="none" stroke="#F97316" stroke-width="3" stroke-opacity="0.4"/>
+  <text x="96" y="100" text-anchor="middle" dominant-baseline="central" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="42" font-weight="800" letter-spacing="-1">
+    <tspan fill="white">ytm</tspan><tspan fill="#F97316">&gt;</tspan><tspan fill="white">labs</tspan>
+  </text>
+</svg>
